@@ -14,7 +14,7 @@ add_to_apps_screen = [
 	{
 		"name": app_name,
 		"logo": "/files/equimech-icon.png",
-		"title": app_title,
+		"title": "EquiMech",
 		"route": app_home,
 		"setup_wizard_text": "Let's give your business a home.",
 		"has_permission": "erpnext.check_app_permission",
