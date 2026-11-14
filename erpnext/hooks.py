@@ -13,7 +13,7 @@ app_home = "/desk/home"
 add_to_apps_screen = [
 	{
 		"name": app_name,
-		"logo": "/assets/erpnext/images/erpnext-logo.svg",
+		"logo": "/files/equimech-icon.png",
 		"title": app_title,
 		"route": app_home,
 		"setup_wizard_text": "Let's give your business a home.",
